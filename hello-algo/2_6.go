@@ -1,3 +1,5 @@
+//go:build exercise_2_6
+
 package main
 
 import (
