@@ -200,3 +200,4 @@ Temporary Items
 out/
 
 .vscode
+.venv
